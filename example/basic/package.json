@@ -7,7 +7,8 @@
     "shhjs": "^0.1.1"
   },
   "scripts": {
-    "start": "babel-node index.js"
+    "start": "babel-node index.js",
+    "test": "echo ok"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
