@@ -2,6 +2,9 @@
   "name": "shhjs",
   "version": "0.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
   "engines": {
     "node": ">=4.0.0"
   },
